@@ -33,10 +33,6 @@ The options are merged into a single, in-memory configuration that is available 
 
 An example ~/.boto file should look like:
 
-```
-
-
-[Credentials]
 aws_access_key_id = <your_access_key_here>
 aws_secret_access_key = <your_secret_key_here>
 
