@@ -40,5 +40,5 @@ aws_secret_access_key = <your_secret_key_here>
 
 If you don't want to save your security credentials on the server or your local machine than at each time you have to pass on these variables while making connection to Boto.
 
-Step 3:- Run this python script transfer.py to transfer the data form your server to AWS S3
+Step 3:- Run the python script transfer.py to transfer the data form your server to AWS S3
 
